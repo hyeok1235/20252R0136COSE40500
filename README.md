@@ -5,7 +5,8 @@ Paper summaries for Computer Science Colloquium, Fall 2025.
 ## Structure
 
 ```
-/summaries    # Individual paper summary files
+/summaries        # Talk/lecture summary files
+/research_papers  # Research paper summaries
 ```
 
 ## Format
